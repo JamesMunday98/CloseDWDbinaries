@@ -6,6 +6,6 @@ https://ui.adsabs.harvard.edu/abs/2024MNRAS.532.2534M/abstract
 
 _Total sources in catalogue:_    309
 
-_Total double-lined double white dwarf binaries_:   77
+_Total double-lined double white dwarf binaries_:   78
 
-_-> first found by the DBL survey_:   31
+_-> first found by the DBL survey_:   32
